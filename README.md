@@ -96,7 +96,7 @@ $(document).ready(function() {
 });
 ```
 
-# ScreenShots
+# Screenshots
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./screenshots/screenshots.png">
