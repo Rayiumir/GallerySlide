@@ -58,6 +58,7 @@ CSS:
 .thumbnails {
     display: flex;
     gap: 10px;
+    overflow: auto;
 }
 
 .thumbnail {
