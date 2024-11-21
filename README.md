@@ -9,6 +9,11 @@ Add JQuery:
 ```html
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 ```
+Add Galleryslide:
+
+```html
+<script src="js/galleryslide.js"></script>
+```
 
 HTML:
 
