@@ -91,4 +91,10 @@ $(document).ready(function() {
 });
 ```
 
+# ScreenShots
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./screenshots/screenshots.png">
+  <source media="(prefers-color-scheme: light)" srcset="./screenshots/screenshots.png">
+  <img alt="Gallery Slide Show" src="./screenshots/screenshots.png">
+</picture>
